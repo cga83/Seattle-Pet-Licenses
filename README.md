@@ -1,7 +1,7 @@
 # Seattle Pet Licenses
 
 ## Sources
-The data come from [Kaggle] (https://www.kaggle.com/aaronschlegel/seattle-pet-licenses). 
+The data come from [Kaggle](https://www.kaggle.com/aaronschlegel/seattle-pet-licenses). 
 
 > The city of Seattle makes available its database of pet licenses issued from 2005 to the beginning of 2017 as part of the city's ongoing Open Data Initiative. 
 
@@ -52,3 +52,7 @@ Some famous cat and dog names may be the same but there are also specific names 
 
 - Here, we can see the number of dogs / ZipCode:
 ![Alt text](Barplot11.png?raw=true "Dogs/ZipCode")
+
+## To do
+- Continue the analasys: why are there more pets in some ZipCode ?
+- Better the barplots' design.
